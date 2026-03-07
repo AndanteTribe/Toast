@@ -12,6 +12,7 @@
   "dependencies": {
     "com.cysharp.unitask": "2.5.10",
     "com.annulusgames.lit-motion": "2.0.1",
-    "jp.andantetribe.gameobjectpool": "0.1.0"
+    "jp.andantetribe.gameobjectpool": "0.1.1",
+    "jp.andantetribe.unitaskplus": "0.1.2"
   }
 }
