@@ -1,6 +1,7 @@
 # Toast
 [![Releases](https://img.shields.io/github/release/AndanteTribe/Toast.svg)](https://github.com/AndanteTribe/Toast/releases)
 [![GitHub license](https://img.shields.io/github/license/AndanteTribe/Toast.svg)](./LICENSE)
+[![openupm](https://img.shields.io/npm/v/jp.andantetribe.toast?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/jp.andantetribe.toast/)
 
 English | [日本語](README_JA.md)
 
