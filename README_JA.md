@@ -76,6 +76,20 @@ namespace Toast.Sample
 }
 ```
 
+## エディタ拡張
+
+`ToastControllerCore` を MonoBehaviour のフィールドとしてシリアライズすると（例：`ToastPresenter`）、付属のカスタムプロパティドロワーにより、Unityインスペクター上で設定項目がラベル付きボックスとして表示されます。
+
+![ToastPresenter インスペクター](https://github.com/user-attachments/assets/9e52ccaa-2024-43d9-b0d9-20b05ce78708)
+
+| インスペクターフィールド | 説明 |
+|----------------|------|
+| Spacing Y | スタックされたトースト間の縦方向の間隔。 |
+| Anim Duration | 表示・非表示アニメーションの時間（秒）。 |
+| Display Duration | トーストが表示される時間（秒）。 |
+| First Extra Display Duration | 連続表示時、最初のトーストに追加される表示時間（秒）。 |
+| Consecutive Wait Duration | 連続してトーストが表示される際に適用される待機時間（秒）。 |
+
 ## API
 
 ### `ToastControllerCore`

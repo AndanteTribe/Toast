@@ -76,6 +76,20 @@ namespace Toast.Sample
 }
 ```
 
+## Editor Extension
+
+When `ToastControllerCore` is serialized as a field on a MonoBehaviour (e.g. `ToastPresenter`), the included custom property drawer renders its settings in a labeled box in the Unity Inspector:
+
+![ToastPresenter Inspector](https://github.com/user-attachments/assets/9e52ccaa-2024-43d9-b0d9-20b05ce78708)
+
+| Inspector Field | Description |
+|----------------|-------------|
+| Spacing Y | Vertical spacing between stacked toasts. |
+| Anim Duration | Duration of the show/hide animation (seconds). |
+| Display Duration | Duration for which the toast is visible (seconds). |
+| First Extra Display Duration | Additional display time for the first toast in a sequence (seconds). |
+| Consecutive Wait Duration | Wait time applied when toasts are shown in rapid succession (seconds). |
+
 ## API
 
 ### `ToastControllerCore`
