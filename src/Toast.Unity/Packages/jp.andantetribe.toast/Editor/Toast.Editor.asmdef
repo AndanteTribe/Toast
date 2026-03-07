@@ -1,0 +1,18 @@
+{
+    "name": "Toast.Editor",
+    "rootNamespace": "Toast.Editor",
+    "references": [
+        "GUID:27a381d36478beb429f1492cad2e02ef"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
