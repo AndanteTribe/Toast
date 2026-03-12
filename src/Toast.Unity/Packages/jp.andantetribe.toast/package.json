@@ -5,14 +5,14 @@
     "name": "AndanteTribe",
     "url": "https://github.com/AndanteTribe"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "unity": "6000.0",
   "description": "Simple toast notification UI for Unity.",
   "license": "MIT",
   "dependencies": {
     "com.cysharp.unitask": "2.5.10",
     "com.annulusgames.lit-motion": "2.0.1",
-    "jp.andantetribe.gameobjectpool": "0.1.1",
+    "jp.andantetribe.gameobjectpool": "0.1.2",
     "jp.andantetribe.unitaskplus": "0.1.2"
   }
 }
